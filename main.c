@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "SensorManager.h"
 
 int main() {
@@ -25,3 +26,4 @@ int main() {
 
     return 0;
 }
+
